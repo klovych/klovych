@@ -1,7 +1,9 @@
 Hi there! 👋
 
 Welcome to my GitHub! I’m a student studying cybersecurity, passionate about programming and Linux. I’m learning ethical hacking, pentesting, and automation while exploring various Linux distros (yes, I’m a bit of a distro-hopper!)
+
 🛠️ Tech Stack:
+
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
