@@ -1,6 +1,6 @@
 Hi there! 👋
 
-Welcome to my GitHub! I’m a student studying cybersecurity, passionate about programming and Linux. I’m learning ethical hacking, pentesting, and automation while exploring various Linux distros (yes, I’m a bit of a distro-hopper!)
+Welcome to my GitHub! I’m a student studying cybersecurity and also data science, passionate about programming and Linux. I’m learning ethical hacking, pentesting, and automation while exploring various Linux distros (yes, I’m a bit of a distro-hopper!)
 
 🛠️ Tech Stack:
 
