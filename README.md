@@ -26,3 +26,4 @@ i'm a double degree student of cyber security and computer science, i like netwo
 [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
 [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) 
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00)](#)
