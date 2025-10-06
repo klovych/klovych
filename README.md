@@ -1,6 +1,5 @@
-Hi there! 👋
-
-Welcome to my GitHub! I’m a student studying cybersecurity and also data science, passionate about programming and Linux. I’m learning ethical hacking, pentesting, and automation while exploring various Linux distros (yes, I’m a bit of a distro-hopper!)
+hi there! 👋
+i'm a double degree student of cyber security and computer science, i like network defense and ethical hacking, my hobby are ctf competitions, i practice with my own home labs for testing or vulnerability gathering. i have experience with data science, machine learning (ML python developer position). and ofc i am distrohopper and unix maniac (geek of linux)..
 
 🛠️ Tech Stack:
 
